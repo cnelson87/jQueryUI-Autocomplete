@@ -1,0 +1,12 @@
+{
+	"name": "jQueryUI-Autocomplete",
+	"description": "A jQuery UI autocomplete demo",
+	"version": "0.1.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cnelson87/jQueryUI-Autocomplete"
+	},
+	"license": "MIT",
+	"author": "Chris Nelson <cnelson87@gmail.com>",
+	"readmeFilename": "README.md"
+}
